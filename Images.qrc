@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cat_blue.png</file>
+        <file>images/cat_red.png</file>
+        <file>images/dog_blue.png</file>
+        <file>images/dog_red.png</file>
+        <file>images/elephant_blue.png</file>
+        <file>images/elephant_red.png</file>
+        <file>images/leopard_blue.png</file>
+        <file>images/leopard_red.png</file>
+        <file>images/lion_blue.png</file>
+        <file>images/lion_red.png</file>
+        <file>images/map.png</file>
+        <file>images/mouse_blue.png</file>
+        <file>images/mouse_red.png</file>
+        <file>images/tiger_blue.png</file>
+        <file>images/tiger_red.png</file>
+        <file>images/wolf_red.png</file>
+        <file>images/wolf_blue.png</file>
+        <file>images/bg.png</file>
+        <file>images/player_blue.png</file>
+        <file>images/player_red.png</file>
+        <file>images/end.png</file>
+        <file>images/lose.png</file>
+        <file>images/win.png</file>
+        <file>images/continue.png</file>
+        <file>images/exitGame.png</file>
+        <file>images/startBg.png</file>
+        <file>images/startGame.png</file>
+        <file>images/rule.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>entitys/Animals.qml</file>
+        <file>actions/Chessmove.qml</file>
+        <file>actions/Action.qml</file>
+        <file>Bground.qml</file>
+        <file>Chessboard.qml</file>
+        <file>Main.qml</file>
+        <file>Result.qml</file>
+        <file>StartGame.qml</file>
+    </qresource>
+</RCC>
